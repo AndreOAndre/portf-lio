@@ -1,0 +1,1 @@
+var cursor = "img/cursor.png"
